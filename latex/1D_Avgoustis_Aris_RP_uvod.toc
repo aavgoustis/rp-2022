@@ -1,0 +1,18 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {slovak}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Úvod}{5}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Minimálne systémové požiadavky}{6}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Viem použiť môj počítač ako domáci server?}{6}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Čo potrebujem na premenu počítača na server?}{7}{section.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ciele práce}{8}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Materiál a metodika}{9}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Praktická časť}{10}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Záver}{11}{chapter*.7}%

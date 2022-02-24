@@ -1,0 +1,43 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{castro_linux-distros_2016}{book}{}
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{isbn}{978-1-4842-1392-6}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{pagetotal}{386}
+      \field{title}{Introducing Linux Distros}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

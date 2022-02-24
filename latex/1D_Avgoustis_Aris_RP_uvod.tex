@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{times}
+\input{preamble.tex}
+
+% okraje a iná geometria
+\usepackage[lmargin=3cm,tmargin=2.5cm,rmargin=2.5cm,bmargin=2.5cm]{geometry}
+
+\begin{document}
+    \onehalfspacing
+    \setlength\parindent{24pt}
+
+    % Titulná strana
+    \input{kapitoly/titulna_strana.tex}
+
+    % Obsah
+    \newpage
+    \tableofcontents
+
+    % Úvod
+    \input{kapitoly/uvod.tex}
+
+    % Prvá kapitola
+    \input{kapitoly/kapitola1.tex}
+
+    % Ciele práce
+    \input{kapitoly/kapitola2.tex}
+
+    % Materiál a metodika
+    \input{kapitoly/kapitola3.tex}
+
+    % Praktická časť
+    \input{kapitoly/kapitola4.tex}
+
+    % Záver
+    \input{kapitoly/zaver.tex}
+
+    % BIB PLACEHOLDER
+    \newpage
+    \huge{Sem pôjde bibliografia...}
+
+    \printbibliography
+\end{document}
